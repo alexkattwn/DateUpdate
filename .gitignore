@@ -1,0 +1,107 @@
+## Программные файлы Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.user.*
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы для сборки
+bin/
+obj/
+out/
+TestResults/
+build/
+
+# Пакеты NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Конфигурационные файлы
+appsettings*.json
+config/
+
+# Кэширование пакетов
+.vscode/
+.vscode-test/
+
+# Лог-файлы
+*.log
+logs/
+
+# Папка с временными файлами
+tmp/
+temp/
+*.tmp
+
+# Rider
+.idea/
+.idea/*
+*.sln.iml
+
+# Конфигурации и файлы, создаваемые MSBuild
+*.cache
+*.ilk
+*.obj
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Папка тестов и временные файлы
+test/
+tests/
+TestResults/
+tmp/
+temp/
+*.tmp
+
+# Конфигурационные файлы для Azure
+.azdo/
+
+# Библиотеки и временные файлы Mono
+.mono/
+mono_crash.*
+
+# Локальные конфигурационные файлы
+.local/
+
+# Локальные инструменты
+.tools/
+
+# MacOS system files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcut files
+*.lnk
